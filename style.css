@@ -1,0 +1,43 @@
+body {
+     background-image: url('imagens/fundo.png');
+}
+
+#nav a{
+    text-decoration: none;
+    color: white;
+}
+
+#nav{
+    border-radius: 15px;
+    background-color: silver;
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    font-size: 40px;
+}
+
+#conteudo{
+    font-weight: 700;
+    font-size: 19px;
+    color: wheat;
+    padding: 15px;
+    border-radius: 20px;
+    background: tan;
+}
+
+#conteudo h1{
+    text-align: center;
+    color: white;
+}
+
+#conteudo img{
+    border-radius: 15px;
+    margin-left: 600px;
+    border: 5px solid white;
+}
+
+#rodape{
+    color: snow;
+    text-align: center;
+}
+
